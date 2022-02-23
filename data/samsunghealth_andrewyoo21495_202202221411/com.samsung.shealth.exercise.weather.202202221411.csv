@@ -1,3 +1,0 @@
-com.samsung.shealth.exercise.weather,6210049,3
-uv_index,sunset_time,start_time,latitude,custom,wind_direction,phrase,sundown_time,temperature_scale,content_provider,update_time,create_time,type,longitude,temperature,humidity,time_offset,deviceuuid,exercise_id,pkg_name,wind_speed_unit,forecast_time,wind_speed,icon_info_id,datauuid
-6.0,,2021-04-15 11:31:29.150,37.30294,,,대체로 흐림,,1,WeatherNews_korea,2021-04-15 12:13:47.532,2021-04-15 12:13:47.528,0,126.96989,10.0,76,UTC+0900,m6sL7dLFqc,868dabcb-21de-bbaf-f0b8-9c8292c65f0e,com.sec.android.app.shealth,,,,19,a6ee7f90-c85b-9025-bdb7-f2385fcb14d5,

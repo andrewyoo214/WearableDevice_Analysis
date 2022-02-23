@@ -1,3 +1,0 @@
-com.samsung.health.food_intake,6210049,4
-start_time,amount,custom,update_time,create_time,meal_type,name,unit,calorie,time_offset,deviceuuid,comment,pkg_name,datauuid,food_info_id
-2020-11-25 14:56:50.840,1.0,,2020-11-25 14:56:50.840,2020-11-25 14:56:50.840,100003,,,540.0,UTC+0900,m6sL7dLFqc,,com.sec.android.app.shealth,41bf9416-86bd-3fd5-b0dd-c8ba8ae881b9,meal_quick_add,
