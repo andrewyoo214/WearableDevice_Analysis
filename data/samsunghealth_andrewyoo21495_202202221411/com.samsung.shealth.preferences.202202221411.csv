@@ -1,0 +1,18 @@
+com.samsung.shealth.preferences,6210049,2
+text_value,service_id,float_value,update_time,create_time,long_value,tag,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+,,,2021-03-03 10:29:01.398,2019-01-12 06:06:12.859,,,,0,Nz95nEBsYs,com.sec.android.app.shealth,,settings.marketing_agreement,
+,tracker.exercise,,2021-07-30 06:20:17.899,2021-07-30 06:20:17.899,,,34-workout_list.blob_value.json,,Nz95nEBsYs,com.sec.android.app.shealth,,34-workout_list,
+,tracker.stress,,2021-12-04 04:04:40.430,2021-12-04 04:04:40.430,,,,0,PkMNM+JAvu,com.sec.android.app.shealth,,08-measure.period,
+,,,2021-03-03 10:29:01.398,2019-05-28 18:39:53.806,,,,0,Nz95nEBsYs,com.sec.android.app.shealth,,oobe.location_agreement_kr,
+,,,2021-12-05 13:55:44.252,2021-10-03 05:40:17.570,,,,1,Nz95nEBsYs,com.sec.android.app.shealth,,weight.tracker_version,
+,tracker.spo2,,2021-12-04 04:04:43.288,2021-12-04 04:04:43.288,,,,0,PkMNM+JAvu,com.sec.android.app.shealth,,10-measure.period,
+,,,2021-03-03 10:29:01.393,2021-02-02 06:03:44.450,,,,1,Nz95nEBsYs,com.sec.android.app.shealth,,oobe.sensitive_data_agreement,
+,tracker.heartrate,,2021-12-04 04:04:32.300,2021-12-04 04:04:32.300,,,,1,PkMNM+JAvu,com.sec.android.app.shealth,,05-tip.enable,
+,tracker.sleep,,2022-02-22 02:54:49.907,2021-12-04 04:04:46.500,,,,1,Nz95nEBsYs,com.sec.android.app.shealth,,06-snore_setting,
+,,,2021-03-03 10:29:01.398,2021-03-03 10:29:01.413,,,,0,Nz95nEBsYs,com.sec.android.app.shealth,,settings.personalization_agreement,
+,tracker.heartrate,,2021-12-04 04:04:36.540,2021-12-04 04:04:36.540,,,,1,PkMNM+JAvu,com.sec.android.app.shealth,,05-alert.high.enable,
+,,,2022-02-22 02:50:01.639,2022-02-22 02:50:01.640,,,,1,Nz95nEBsYs,com.sec.android.app.shealth,,sleep_coaching.trial_state,
+,,,2022-02-22 05:11:37.323,2021-07-29 18:12:54.372,,,,1,Nz95nEBsYs,com.sec.android.app.shealth,,step.detectworkout_switch,
+,tracker.heartrate,,2021-12-04 04:04:36.542,2021-12-04 04:04:36.542,,,,1,PkMNM+JAvu,com.sec.android.app.shealth,,05-alert.low.enable,
+,tracker.exercise,,2021-07-30 06:20:17.891,2021-07-30 06:20:17.891,,,34-favorite_list.blob_value.json,,Nz95nEBsYs,com.sec.android.app.shealth,,34-favorite_list,
+,tracker.heartrate,,2021-12-04 04:04:36.612,2021-12-04 04:04:36.612,,,,0,PkMNM+JAvu,com.sec.android.app.shealth,,05-measure.period,

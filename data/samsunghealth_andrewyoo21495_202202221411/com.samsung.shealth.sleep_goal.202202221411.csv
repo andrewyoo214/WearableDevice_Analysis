@@ -1,0 +1,4 @@
+com.samsung.shealth.sleep_goal,6210049,3
+update_time,create_time,sleep_time,wake_up_time,deviceuuid,pkg_name,bed_time,set_time,datauuid
+2022-02-22 02:49:49.217,2022-02-22 02:49:49.217,-57600000,25200000,Nz95nEBsYs,com.sec.android.app.shealth,82800000,1645498189212,3c00f78c-e468-493d-95b2-dcf94d8b5bc2,
+2022-02-22 02:49:49.220,2022-02-22 02:49:49.220,-57600000,25200000,Nz95nEBsYs,com.sec.android.app.shealth,82800000,1645498189218,e0d33a98-ee0d-45bb-99f4-6cc4c4520fb2,
